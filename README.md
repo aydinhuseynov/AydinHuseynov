@@ -3,7 +3,7 @@
     <h1>Aydin Huseynov</h1>
     <p>👋 Hi, I'm Aydin Huseynov, a self-motivated and enthusiastic Front-End Developer from Baku, Azerbaijan. With a solid foundation in web development, I specialize in creating responsive and user-friendly applications using modern tools and technologies.</p>
 
-    <div class="section">
+  <div class="section">
       <h2>🛠️ Technical Skills</h2>
       <p><strong>Languages & Frameworks:</strong> HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript, React, Redux</p>
       <p><strong>UI Libraries:</strong> Material UI, Bootstrap</p>
@@ -11,7 +11,7 @@
       <p><strong>CMS:</strong> WordPress</p>
     </div>
 
-    <div class="section">
+  <div class="section">
       <h2>🌟 Career Highlights</h2>
       <ul>
         <li><strong>Internship at SINAM:</strong> Built responsive web interfaces with React and Material UI and collaborated with developers to implement new features.</li>
@@ -24,7 +24,7 @@
       </ul>
     </div>
 
-    <div class="section">
+  <div class="section">
       <h2>📂 Notable Projects</h2>
       <ul>
         <li><a href="https://aydinhuseynov.github.io/React_Tailwind_project/" target="_blank">XYZ Website:</a> Showcasing responsive design with React and Tailwind CSS.</li>
@@ -33,7 +33,7 @@
       </ul>
     </div>
 
-    <div class="section">
+  <div class="section">
       <h2>🌍 Languages</h2>
       <div class="languages">
         <span>🇦🇿 Azerbaijani: Native</span>
@@ -41,7 +41,7 @@
       </div>
     </div>
 
-    <div class="section connect">
+   <div class="section connect">
       <h2>📫 Let's Connect</h2>
       <a href="https://www.linkedin.com/in/ayd%C4%B1nh%C3%BCseynov/" target="_blank">LinkedIn</a>
       <a href="https://github.com/aydinhuseynov" target="_blank">GitHub</a>
