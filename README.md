@@ -20,47 +20,9 @@
       </div>
     </div>
 
-   <div>
-      <h3>🛠️ Languages and Tools</h3>
-      <div>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-          <img src="[https://img.icons8.com/ios/50/000000/html-5.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw2n3q_yrwIUMfZ6ToZP96aZ&ust=1736688807670000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICi_5Xk7YoDFQAAAAAdAAAAABAE)" alt="HTML" style="background-color: #E34F26; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS" style="background-color: #1572B6; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://sass-lang.com/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/sass.png" alt="SCSS" style="background-color: #C69EE1; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://getbootstrap.com/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/bootstrap.png" alt="Bootstrap" style="background-color: #563D7C; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="Tailwind" style="background-color: #38BDF8; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://www.javascript.com/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" style="background-color: #F7DF1E; padding: 10px; border-radius: 5px; color: black;" />
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/typescript.png" alt="TypeScript" style="background-color: #3178C6; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://reactjs.org/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/react.png" alt="React" style="background-color: #61DAFB; padding: 10px; border-radius: 5px; color: black;" />
-        </a>
-        <a href="https://mui.com/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/material-ui.png" alt="Material UI" style="background-color: #007FFF; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://ant.design/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/ant-design.png" alt="Ant Design" style="background-color: #0170FE; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://gitlab.com/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/gitlab.png" alt="GitLab" style="background-color: #FCA121; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-        <a href="https://github.com/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" style="background-color: #181717; padding: 10px; border-radius: 5px; color: white;" />
-        </a>
-      </div>
-    </div>
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 
 
   </div>
