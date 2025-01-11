@@ -1,4 +1,4 @@
-About Me 🚀
+
 👋 Hi, I'm Aydin Huseynov, a self-motivated and enthusiastic Front-End Developer from Baku, Azerbaijan. With a solid foundation in web development, I specialize in creating responsive and user-friendly applications using modern tools and technologies.
 
 🛠️ Technical Skills
