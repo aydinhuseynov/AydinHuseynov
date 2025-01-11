@@ -10,15 +10,14 @@
   <div>
       <h2>📫 Let's Connect</h2>
       <div>
-         <img src="https://img.icons8.com/color/20/000000/linkedin.png" alt="LinkedIn Icon" /> 
         <a href="https://www.linkedin.com/in/ayd%C4%B1nh%C3%BCseynov/" target="_blank">
-         LinkedIn
-        </a>
-        <a href="https://github.com/aydinhuseynov" target="_blank">
-          <img src="https://img.icons8.com/ios-glyphs/20/000000/github.png" alt="GitHub Icon" /> GitHub
+          <img src="https://img.icons8.com/color/20/000000/linkedin.png" alt="LinkedIn Icon" /> LinkedIn
         </a>
         <a href="mailto:aydinhuseynov.dev@gmail.com">
           <img src="https://img.icons8.com/color/20/000000/gmail.png" alt="Email Icon" /> Email
+        </a>
+        <a href="tel:+994553370207">
+          <img src="https://img.icons8.com/ios-glyphs/20/000000/phone.png" alt="Phone Icon" /> Phone
         </a>
       </div>
     </div>
