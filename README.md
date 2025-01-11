@@ -12,13 +12,7 @@
       using modern tools and technologies.
     </p>
 
-   <div>
-      <h3>📫 Let's Connect</h3>
-      <div>
-        <a href="https://www.linkedin.com/in/ayd%C4%B1nh%C3%BCseynov/" target="_blank">LinkedIn</a> 
-        <a href="mailto:aydinhuseynov.dev@gmail.com">Email</a>
-      </div>
-    </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -55,6 +49,12 @@
 </p>
 
 
-
+   <div>
+      <h3>📫 Let's Connect</h3>
+      <div>
+        <a href="https://www.linkedin.com/in/ayd%C4%B1nh%C3%BCseynov/" target="_blank">LinkedIn</a> 
+        <a href="mailto:aydinhuseynov.dev@gmail.com">Email</a>
+      </div>
+    </div>
   </div>
 </body>
