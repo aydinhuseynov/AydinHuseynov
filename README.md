@@ -17,8 +17,7 @@
           <img src="https://img.icons8.com/color/20/000000/gmail.png" alt="Email Icon" /> Email
         </a>
         <a href="tel:+994553370207">
-          <img src="https://img.icons8.com/ios-filled/20/ffffff/phone.png" alt="Phone Icon" /> Phone
-        </a>
+          <img src="https://img.icons8.com/ios-filled/20/ffffff/phone.png" alt="Phone Icon" /> Phone: +994553370207        </a>
       </div>
     </div>
   </div>
