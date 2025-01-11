@@ -10,7 +10,7 @@
   <div>
       <h3>📫 Let's Connect</h3>
       <div>
-        <a href="https://www.linkedin.com/in/ayd%C4%B1nh%C3%BCseynov/" target="_blank">LinkedIn</a> 
+[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/praveentech/) 
         <a href="mailto:aydinhuseynov.dev@gmail.com">Email</a>
       </div>
     </div>
@@ -55,11 +55,6 @@
           <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" style="background-color: #181717; padding: 10px; border-radius: 5px;" />
         </a>
       </div>
-    </div>
-
-    <div>
-      <h3>📞 Connect with me</h3>
-      <p>Feel free to reach out to me via email or LinkedIn for collaboration or job opportunities!</p>
     </div>
   </div>
 </body>
