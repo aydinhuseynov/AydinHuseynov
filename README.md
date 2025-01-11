@@ -5,7 +5,7 @@
 
 <body>
   <div>
-    <h1>Aydin Huseynov</h1>
+ <h1 align="center">Aydin Huseynov</h1>
     <p>
       👋 Hi, I'm Aydin Huseynov, a self-motivated and enthusiastic Front-End Developer from Baku, Azerbaijan. 
       With a solid foundation in web development, I specialize in creating responsive and user-friendly applications 
