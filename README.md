@@ -19,7 +19,7 @@
       <h3>🛠️ Languages and Tools</h3>
       <div>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-          <img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="HTML" style="background-color: #E34F26; padding: 10px; border-radius: 5px; color: white;" />
+          <img src="[https://img.icons8.com/ios/50/000000/html-5.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw2n3q_yrwIUMfZ6ToZP96aZ&ust=1736688807670000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICi_5Xk7YoDFQAAAAAdAAAAABAE)" alt="HTML" style="background-color: #E34F26; padding: 10px; border-radius: 5px; color: white;" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
           <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS" style="background-color: #1572B6; padding: 10px; border-radius: 5px; color: white;" />
