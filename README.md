@@ -54,6 +54,7 @@
       <div>
         <a href="https://www.linkedin.com/in/ayd%C4%B1nh%C3%BCseynov/" target="_blank">LinkedIn</a> 
         <a href="mailto:aydinhuseynov.dev@gmail.com">Email</a>
+        <a href="https://aydindev-portfolio.netlify.app/">Portfolio</a>
       </div>
     </div>
   </div>
